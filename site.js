@@ -1,5 +1,5 @@
 /* Touch Unique Studio — logique publique
-   Source unique : catalogue.json / content.json (miroirs dans js/data.js pour file://)
+   Source unique : catalogue.json / content.json (miroirs dans data.js pour file://)
    Bus partagé : tus_site_leads_v1 -> application Touch Unique
 */
 (function () {

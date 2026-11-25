@@ -37,18 +37,18 @@
     { "title": "Automatisation IA", "desc": "Briefs, scripts, publications, devis et boutique qui avancent avec vous.", "tools": "Assistant Touch Unique", "icon": "✺" }
   ],
   "portfolio": [
-    { "title": "Identité visuelle", "category": "identite", "img": "assets/catalogue/identite-01.webp", "desc": "Systèmes visuels complets, pensés pour la reconnaissance et l’usage réel." },
-    { "title": "Déclinaison de marque", "category": "identite", "img": "assets/catalogue/identite-02.webp", "desc": "Cartes, supports et applications cohérents autour d’une même signature." },
-    { "title": "Packaging", "category": "print", "img": "assets/catalogue/packaging-01.webp", "desc": "Emballages et étiquettes qui racontent le produit dès le premier regard." },
-    { "title": "Support entreprise", "category": "print", "img": "assets/catalogue/packaging-02.webp", "desc": "Plaquettes et documents de présentation clairs, structurés et imprimables." },
-    { "title": "Visuel événementiel", "category": "video", "img": "assets/catalogue/evenement-01.webp", "desc": "Affiches et annonces fortes pour les moments qui comptent." },
-    { "title": "Campagne événement", "category": "video", "img": "assets/catalogue/evenement-02.webp", "desc": "Déclinaisons multiples pour le print et les réseaux." },
-    { "title": "Mise en scène", "category": "video", "img": "assets/catalogue/evenement-03.webp", "desc": "Univers visuels immersifs et lumière maîtrisée." },
-    { "title": "Conception libre", "category": "contenu", "img": "assets/catalogue/evenement-04.webp", "desc": "Explorations graphiques et compositions sur mesure." },
-    { "title": "Autres conceptions", "category": "contenu", "img": "assets/catalogue/conception-01.webp", "desc": "Projets singuliers où la contrainte devient une idée." },
-    { "title": "Direction artistique", "category": "contenu", "img": "assets/catalogue/conception-02.webp", "desc": "Couleur, typographie et rythme au service du message." },
-    { "title": "Projet personnel", "category": "identite", "img": "assets/catalogue/projet-personnel-01.webp", "desc": "Recherches personnelles et expérimentations maîtrisées." },
-    { "title": "Logo ARRAHMA", "category": "identite", "img": "assets/catalogue/logo-arrahma.webp", "desc": "Identité de pharmacie : clarté, confiance et lisibilité." }
+    { "title": "Identité visuelle", "category": "identite", "img": "identite-01.webp", "desc": "Systèmes visuels complets, pensés pour la reconnaissance et l’usage réel." },
+    { "title": "Déclinaison de marque", "category": "identite", "img": "identite-02.webp", "desc": "Cartes, supports et applications cohérents autour d’une même signature." },
+    { "title": "Packaging", "category": "print", "img": "packaging-01.webp", "desc": "Emballages et étiquettes qui racontent le produit dès le premier regard." },
+    { "title": "Support entreprise", "category": "print", "img": "packaging-02.webp", "desc": "Plaquettes et documents de présentation clairs, structurés et imprimables." },
+    { "title": "Visuel événementiel", "category": "video", "img": "evenement-01.webp", "desc": "Affiches et annonces fortes pour les moments qui comptent." },
+    { "title": "Campagne événement", "category": "video", "img": "evenement-02.webp", "desc": "Déclinaisons multiples pour le print et les réseaux." },
+    { "title": "Mise en scène", "category": "video", "img": "evenement-03.webp", "desc": "Univers visuels immersifs et lumière maîtrisée." },
+    { "title": "Conception libre", "category": "contenu", "img": "evenement-04.webp", "desc": "Explorations graphiques et compositions sur mesure." },
+    { "title": "Autres conceptions", "category": "contenu", "img": "conception-01.webp", "desc": "Projets singuliers où la contrainte devient une idée." },
+    { "title": "Direction artistique", "category": "contenu", "img": "conception-02.webp", "desc": "Couleur, typographie et rythme au service du message." },
+    { "title": "Projet personnel", "category": "identite", "img": "projet-personnel-01.webp", "desc": "Recherches personnelles et expérimentations maîtrisées." },
+    { "title": "Logo ARRAHMA", "category": "identite", "img": "logo-arrahma.webp", "desc": "Identité de pharmacie : clarté, confiance et lisibilité." }
   ],
   "process": [
     { "n": "01", "title": "Brief express", "desc": "Vous expliquez le but en quelques lignes. L’assistant structure le besoin et les questions utiles." },
