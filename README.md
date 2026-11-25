@@ -1,14 +1,14 @@
 # Site public — Touch Unique Studio
 
-Dossier à publier à la racine du dépôt `touchunique-site`.
+Sources du site public. Le dossier **à publier** est `../deploy/site/` (généré par `python ../deploy/prepare.py`), car le téléversement web de GitHub aplatit les dossiers.
 
 Fichiers clés :
 
 - `index.html` — structure, SEO, JSON-LD, panier, modale, lightbox.
-- `css/styles.css` — design system noir / rouge / bleu, responsive, `prefers-reduced-motion`.
-- `js/data.js` — miroir généré de `catalogue.json` et `content.json` (repli `file://`).
-- `js/sync.js` — liaison temps réel avec l’application (`BroadcastChannel` + `tus_sync_v1`).
-- `js/site.js` — rendu des offres, filtres, panier, devis WhatsApp, bus `tus_site_leads_v1`.
+- `styles.css` — design system noir / rouge / bleu, responsive, `prefers-reduced-motion`.
+- `data.js` — miroir généré de `catalogue.json` et `content.json` (repli `file://`).
+- `sync.js` — liaison temps réel avec l’application (`BroadcastChannel` + `tus_sync_v1`).
+- `site.js` — rendu des offres, filtres, panier, devis WhatsApp, bus `tus_site_leads_v1`.
 - `catalogue.json`, `content.json` — données canoniques.
 - `assets/` — portrait, bannière académie, cartes portfolio, boucle vidéo.
 - `manifest.webmanifest`, `robots.txt`, `sitemap.xml`, `.nojekyll`.
